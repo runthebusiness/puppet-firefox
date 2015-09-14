@@ -1,1 +1,1 @@
-firefox{"installfirefox":}
+firefox{'installfirefox':}
